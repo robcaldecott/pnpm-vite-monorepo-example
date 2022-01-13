@@ -1,0 +1,12 @@
+{
+  "name": "monorepo-example",
+  "version": "1.0.0",
+  "description": "Monorepo example using pnpm",
+  "main": "index.js",
+  "scripts": {
+    "test": "pnpm run test -r --stream run"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": true
+}
