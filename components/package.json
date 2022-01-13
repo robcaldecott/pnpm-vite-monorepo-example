@@ -9,6 +9,7 @@
   ],
   "scripts": {
     "build": "tsc && vite build",
+    "watch": "vite build --watch",
     "test": "vitest",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"

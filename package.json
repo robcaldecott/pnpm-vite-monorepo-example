@@ -8,5 +8,9 @@
   },
   "author": "",
   "license": "ISC",
-  "private": true
+  "private": true,
+  "workspaces": [
+    "components",
+    "app"
+  ]
 }
